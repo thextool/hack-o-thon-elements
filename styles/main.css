@@ -1,1 +1,23 @@
-ANOTHER TEST OMG
+h1, p {
+    color: white;
+    /* mix-blend-mode: lighten; */
+}
+.hero-head div {
+    display: flex;
+    justify-content: center;
+}
+div.hero {
+    background-image: url("../rain-storm.jpg");
+    /* background-color: red; */
+}
+h1.title {
+    margin-top: 5%;
+    font-size: 35pt;
+    font-weight: 300;
+}
+.hero-body div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
